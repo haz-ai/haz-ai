@@ -1,4 +1,11 @@
-### Hi there 👋
+Currently a High school student in Sydney Australia
+
+Working on my major project in multimedia and learning to code slowly along the way
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haz-ai&count_private=true&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haz-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **haz-ai/haz-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
